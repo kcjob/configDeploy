@@ -1,6 +1,6 @@
 ---
 - name: "config and deploy"
-  host: all
+  hosts: all
   user: ubuntu
   roles:
   - configec2
